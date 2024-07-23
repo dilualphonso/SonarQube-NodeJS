@@ -292,35 +292,7 @@
              "timestamp":1701584262000
           }
        ]
-    },
-    {
-       "id":"14ac3252-de26-4343-934d-530f00071e30",
-       "description":"hello How are u",
-       "channel":"Adam William",
-       "title":"Testing Image",
-       "like":0,
-       "view":0,
-       "duration":4.02,
-       "video":"https://unit-3-project-api-0a5620414506.herokuapp.com/stream",
-       "timestamp":1709755535422,
-       "comments":[
-
-       ],
-       "image":"/images/flowers.jpg"
-    },
-    {
-       "id":"4e2f1956-4ed7-4a22-be87-a81f79382b18",
-       "description":"hello How are u",
-       "channel":"Adam William",
-       "title":"Testing Image",
-       "like":0,
-       "view":0,
-       "duration":4.02,
-       "video":"https://unit-3-project-api-0a5620414506.herokuapp.com/stream",
-       "timestamp":1709755998028,
-       "comments":[
-
-       ],
-       "image":"/images/flowers.jpg"
     }
+  
+  
  ]
